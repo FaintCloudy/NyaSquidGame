@@ -1,7 +1,7 @@
 # NyaSquidGame
 Squid Game but in Minecraft
 
-Author: FaintCloudy
+Author: FaintCloudy                             
 A game plugin copied from series the Squid Game.
 There are 6 levels in the game:
   1. The Green and Red Light
